@@ -1,1 +1,4 @@
+Dev branch file m1 added conflict line
+another line added 
 Dev branch file m1 conflict added added one more conflict
+
