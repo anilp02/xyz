@@ -1,1 +1,4 @@
+
+Dev branch file m1 conflictasdfasdfasdfada
 Dev branch file m1 new conflict added 
+
