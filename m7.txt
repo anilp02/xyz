@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 adding another file in Dev origin conflict
 
+=======
+adding another file in Dev origin test dev conflict
+>>>>>>> test-dev
