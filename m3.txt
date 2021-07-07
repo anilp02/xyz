@@ -1,2 +1,1 @@
-added m3 file
-adding conflict line
+removed two lines conflicts
