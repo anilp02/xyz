@@ -1,1 +1,2 @@
 removed two lines conflicts. added in conflict branch
+added another line
