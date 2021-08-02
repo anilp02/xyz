@@ -1,4 +1,4 @@
 removed two lines conflicts. added in conflict branch
-added another line confilict
+added another
+adding another line
 conflict line added
-another line added
